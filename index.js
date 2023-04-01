@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const os = require('os');
-require('dotenv').config()
+require('dotenv').config();
 
 const VERSION = process.env.VERSION || 'brak_versji';
 

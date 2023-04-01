@@ -20,4 +20,5 @@ Deinstalacja
 
 Part2:
 
-
+Problemy z npm run build
+Na razie commituje tyle
