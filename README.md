@@ -12,8 +12,8 @@ Instalacja
 
 * W kroku 4 port 8081 można zmienić na dowolny
 * W nazwie_obrazu można dodać tag np nazwa_obrazu:tag1
-Deinstalacja
 
+Deinstalacja
 1. Użyj polecenia żeby zatrzymać kontener: Docker stop id_kontenera
 2. Użyj polecenia żeby usunąć kontener: Docker rm id_kontenera
 3. Użyj polecenia żeby usunąć obraz kontenera: Docker rmi nazwa_obrazu
